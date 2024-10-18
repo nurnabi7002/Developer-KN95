@@ -17,6 +17,9 @@
   backdrop-filter: blur(20px);
 }
 
+h1, h3{
+  text-align: center;
+}
 
 .ndl {
   width: 40%;
